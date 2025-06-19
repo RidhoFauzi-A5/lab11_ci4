@@ -1,12 +1,3 @@
-## 👤 Profil Mahasiswa
-
-| Atribut         | Keterangan            |
-| --------------- | --------------------- |
-| **Nama**        | Ridho Fauzi           |
-| **NIM**         | 312310563             |
-| **Kelas**       | TI.23.A.5             |
-| **Mata Kuliah** | Pemrograman Website 2 |
-
 # 📌 Tugas Praktikum 1-3
 
 Dokumen ini berisi laporan tugas untuk praktikum 1 hingga 3 dalam mata kuliah Pemrograman Website 2. Setiap praktikum mencakup konsep dasar hingga implementasi menggunakan framework CodeIgniter 4.
