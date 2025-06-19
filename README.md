@@ -1,3 +1,12 @@
+## 👤 Profil Mahasiswa
+
+| Atribut         | Keterangan            |
+| --------------- | --------------------- |
+| **Nama**        | Ridho Fauzi           |
+| **NIM**         | 312310563             |
+| **Kelas**       | TI.23.A.5             |
+| **Mata Kuliah** | Pemrograman Website 2 |
+
 # Praktikum 1: PHP Framework (CodeIgniter 4)
 
 ## Tujuan Praktikum
